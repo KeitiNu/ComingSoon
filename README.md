@@ -34,9 +34,9 @@ If the browser window becomes narrower in width (less than 650 pixels) and/or le
 
 __Page Flavicon__:
 
-![Page flavicon](../favicon.ico)
+![Page flavicon](favicon.ico)
 
 __Page Logo__:
 
-![Page logo](../img/keitilogo.png)  
+![Page logo](img/keitilogo.png)  
 
